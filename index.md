@@ -3,7 +3,6 @@
     <meta charset="UTF-8" />
   </head>
 <body>
-    <h5>Cats!</h5>
 <DIV>
   <p>Cats</p>
 <BR/><BR/>
