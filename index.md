@@ -32,17 +32,17 @@
 
  <table>
     <tr>
-      <th> scope="col">Item</th>
-      <th> scope="col">Price</th>
+      <th>Item</th>
+      <th>Price</th>
     </tr>
 
    <tr>
-      <td> scope="row">Raw Tuna</td>
+      <td>Raw Tuna</td>
       <td>$5</td>
     </tr>
 
    <tr>
-      <td> scope="row">Catnip, Organic</td>
+      <td>Catnip, Organic</td>
       <td>$3</td>
     </tr>
   </table>
