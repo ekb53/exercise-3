@@ -11,7 +11,6 @@
   <p>Cats are the spirit animal of the <a href='https://www.w3.org/'>Internet</a>.</p>
 </DIV>
 
-
 <h2>Famous Cats</h2>
 
 <ul>
@@ -22,31 +21,31 @@
 
 <h2>Cool House Cats</h2>
 
-<img src='flynn.jpg' />
+<img src='flynn.jpg' alt="Flynn" />
 <P><b>Flynn:</b> Happy kitty, sleepy kitty.</P>
 
 <img src='quorra' alt="Quorra the cat."/>
-  <b><p>Quorra Mii-ow Fit.</p></b>
+  <p><b>Quorra Mii-ow Fit.</b></p>
 
 
 <h>Cat Shopping List</h2>
 
-  <table>
+ <table>
     <tr>
       <th> scope="col">Item</th>
       <th> scope="col">Price</th>
     </tr>
 
-    <tr>
+   <tr>
       <td> scope="row">Raw Tuna</td>
       <td>$5</td>
     </tr>
 
-    <tr>
+   <tr>
       <td> scope="row">Catnip, Organic</td>
       <td>$3</td>
     </tr>
   </table>
-  </body>
-  </html>
+</body>
+ </html>
   
