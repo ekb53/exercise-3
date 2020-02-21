@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8" />
-    <title>Cats!</title>
   </head>
 <body>
-
+    <h5>Cats!</h5>
 <DIV>
   <p>Cats</p>
 <BR/><BR/>
@@ -21,10 +20,10 @@
 
 <h2>Cool House Cats</h2>
 
-<img src='flynn.jpg' alt="Flynn" />
+<img src="flynn.jpg" alt="Flynn" />
 <P><b>Flynn:</b> Happy kitty, sleepy kitty.</P>
 
-<img src='quorra' alt="Quorra the cat."/>
+<img src="quorra.jpg" alt="Quorra the cat."/>
   <p><b>Quorra Mii-ow Fit.</b></p>
 
 
